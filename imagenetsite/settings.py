@@ -25,7 +25,7 @@ SECRET_KEY = '70y&#y7$pqzi63+l6kpnz!d-rt=r+1uh2-&5&8$a1uc5wjm=k='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [u'aqueous-refuge-65510.herokuapp.com']
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
